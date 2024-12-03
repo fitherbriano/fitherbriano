@@ -8,12 +8,18 @@ params:
     Title: "{{< terminal-prompt >}}"
     Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
   socialIcons:
-    - name: facebook
-      url: "https://facebook.com/"
-    - name: x
-      url: "https://x.com/"
+    - name: substack
+      url: "https://substack.com/@fither"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/fitherbriano"
+    - name: email
+      url: "mailto:senobroto01@gmail.com"
+    - name: x
+      url: "https://x.com/fither_briano"
+    - name: linkedin
+      url: "https://linkedin.com/in/fitherbriano/"
+    - name: kofi
+      url: "https://ko-fi.com/fither"
 
   cover:
     linkFullImages: true
