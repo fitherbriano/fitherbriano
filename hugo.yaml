@@ -1,11 +1,11 @@
-baseURL: ""
+baseURL: fitherbriano.github.io
 languageCode: en-us
 title: fither's blog
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: "Hello Stranger"
+    Title: "{{< terminal-prompt >}}"
     Content: Welcome to my blog. Here you'll find a lot of cool information about a lot of cool stuff.
   socialIcons:
     - name: facebook
