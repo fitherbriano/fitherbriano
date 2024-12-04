@@ -32,6 +32,8 @@ params:
   ShowShareButtons: true
 
   ShowPostNavLinks: true
+  assets:
+    favicon: "img/favicon.ico"
 
 menu:
   main:
